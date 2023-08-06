@@ -111,6 +111,19 @@ Be it with negotiating the price with your client, or you want to learn how to n
    - If they didn't flinch after you flinch, then you can stick to your base price
    - If they flinch after you flinch, you know it is a signal to up the price a little bit
    - Don't let them think you are happy
+6. Ambitious opener
+   - Negotiating is fine, you will think it's fine after negotiating
+   - Rule #0: Wear simple, don't show off
+   - Rule #1: Set your limit (Internally set: how much I need the table, how much I like the table)
+   - Ask the price first, if the price is too high, walk away to see if it activated negotiation from the seller
+   - Once the seller keep reducing the price, and you still don't accept the offer, they will ask you how much you are willing to pay
+   - You say a price which is lower than the limit you chose: Give it a try
+   - Make sure your offer is not round number
+   - Offering is not as outrageous as you think
+7. As a seller
+   - You trade, don't reduce the price too quick
+   - As you reduce, ask to buy something else, or not include free delivery etc
+   - You trade the discount with something else
 
 #### Resourses
 1. [Successful Negotiation: Master Your Negotiating Skills](https://www.udemy.com/course/a-practical-guide-to-negotiating/) by Chris Croft
