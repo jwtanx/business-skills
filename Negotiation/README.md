@@ -125,5 +125,86 @@ Be it with negotiating the price with your client, or you want to learn how to n
    - As you reduce, ask to buy something else, or not include free delivery etc
    - You trade the discount with something else
 
+### Tactics
+1. The vice
+   - Use this and avoid it being done to you
+   - Buying tactic: Buyer saying "You have to do better than that", "Still a little too much, can you reduce it alittle bit more"
+   - Selling tactic: Seller should not reduce the price unilaterally, but they should try to traed off the reduced price with other things like "If you buy this, then I can come down a little bit more for you"
+   - If the buyer keep asking you to reduce the price, seller should ask "Well, how much better exactly?". This will force the buyer out a number
+   - Once they come out with a number, you should go flinch saying that can't possibly come down to that low
+2. The salami
+   - Salami slicing is a technique used by the buyer to ask for little things bit by bit until you didn't notice that half of your salami is sliced away
+   - How to avoid getting salami-sliced is by taking back the previous offer you gave them in order to give them the current salami slice that they want (trade back)
+   - Another method is asking for price increased if the buyer wants additional free gift etc
+   - If you have been giving alot of free stuffs, say sorry and take it back and redo the negotiation since they haven't purchase yet
+   - This is to stop their little game
+3. Knocking the product
+   - Buyer: "Its not the color I wanted, but if it is a little bit cheaper, I supposed I will buy it"
+   - Seller: "Oh that's the dent, that's why the price is very reasonable"
+4. Reluctant buyer / seller
+   - Buyer: "Normally we would purchase it from the local, but if you could come down the price a little, we might consider it"
+   - Seller: "That's not for sale, that's my favourite model, for demostration" (This might be a tactic to make you to bid for higher price)
+
+### Trading
+1. The meaning of win / win
+   - Trading is important as you can reach to a solution of win-win sale (You save money, they earn sales)
+   - There is win-win solution but...
+   - There won't be a win-win negotiation by price because if you save 50, they lose 50
+   - Win-win negotiation is the negotiation that has tradables
+   - Always prepare and ready to introduce tradables when negotiation for a win-win negotiation
+2. How to trade?
+   - "If you [INSERT ACTION], then I/we [INSERT ACTION]"
+   - If you pay this in advanced, then we will deliver it quicker
+   - Don't directly give away, that's weak: "How about I give you a cheaper price?"
+   - Hide what's valuable: Don't say "I must have it quick delivery", then the seller probably know you are in urgent to have it and will increase the price
+   - Just casually say: "By the way, when can we have the goods delivered?"
+   - If something is valuable and important, imply it to be unimportant
+3. Move in small steps (For selling)
+   - Don't give away too much information
+   - Reduce the price slowly, so they sense the limit is near
+   - Also, remember while you are reducing the price, ask for something tradables like asking them to purchase some other things
+4. Attitude during negotiation
+   - Don't be rude
+   - Don't directly reach to your walkaway point as a seller, move at a smaller amount
+   - While moving at a smaller amount, trade the loss with something else: "If you ..., then I ..."
+   - If you are asked to reduced the price way more, give them a reason why you can't afford to reduce the price anymore
+
+### Closing
+1. Final offer
+   - "That's my final offer!" could be true or fake
+   - So never ask "Is that your final offer" because most of the time they will say yes and you cannot reduce the price any more further
+   - And also try to avoid saying to them "That's my final offer" because they might not consider buying it anymore, you could trade them and gain more from it
+2. Split the difference
+   - Don't use this method
+   - When the seller ask for 100 and you ask for 90, the seller then ask to split the difference, meaning 95, this mean they already given up and you know you can push to the 90
+   - Never say this "Split the difference" as it implies that you already give up in the negotiation
+   - If they give up and let you pay 90, then good
+   - However if they don't, and they walk away, you ask for another split again with the 90 and 95 that they offer
+   - Think about the price as in hourly rated then you will see the money saved compounding
+3. Nibble
+   - Evil tactic by the seller, when you comes to a agreement, they charge you the service charge etc for spare parts
+   - Before agreeing the final price, ask "Are there any extras I have to know about"
+   - Look out for nibble and don't do it
+   - Don't let them nibble something back after agreeing with a price, ask for something back (counter nibble back) if they wanna nibble
+4. Quivering pen
+   - Right before you sign the agreement, ask for something small for free gift besides you, they probably agree as they want you to sign it
+   - If somebody does it to you, just refuse it "Well, actually no, I can't give you that"
+   - Know their weaknesses
+5. Should you walk away?
+   - Rule #1: Always stick to your limit
+   - If you cannot get the price you set as the limit, just walk away
+   - Walk away or crumble
+   - If you can't get them to move, try trading
+   - Try some trades if you can't get the price lower than what you limit
+   - Then only crumble or walk away
+6. How to practise?
+   - Learn by negotiating with the things you don't want to buy
+   - Be careful, don't actually go and buy it
+   - Or when you have something you do want, but you can't afford
+   - The thing is cheaper somewhere else, then you can practise negotiation
+   - Because you know you have nothing to lose, as you already have a backup supplier (Supplier A) to buy from, so now its your time to practise with this supplier (Supplier B) selling high price
+   - But don't tell them you saw a cheaper price somewhere because if you say the price then you won't go lower than the price sold by (Supplier A)
+   - Once they reduce the price lower than the Supplier A, don't buy from Supplier B, go to Supplier A and ask for lower than Supplier B
+
 #### Resourses
 1. [Successful Negotiation: Master Your Negotiating Skills](https://www.udemy.com/course/a-practical-guide-to-negotiating/) by Chris Croft
